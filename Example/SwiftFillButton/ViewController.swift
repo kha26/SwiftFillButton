@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         let buttonSize = CGSize(width: 100, height: 50)
         
-        let button1 = FillButton(type: .custom)
+        let button1 = FillButton()
         button1.frame.size = buttonSize
         button1.center = view.center
         button1.center.y -= buttonSize.height + 16
@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         
         view.addSubview(button1)
         
-        let button2 = FillButton(type: .custom)
+        let button2 = FillButton()
         button2.frame.size = buttonSize
         button2.center = view.center
         button2.setTitle("Click Me 2", for: .normal)
@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         
         view.addSubview(button2)
         
-        let button3 = FillButton(type: .custom)
+        let button3 = FillButton()
         button3.frame.size = buttonSize
         button3.center = view.center
         button3.center.y += buttonSize.height + 16
