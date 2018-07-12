@@ -8,10 +8,8 @@
 Simple button in Swift that fills up on a click.
 
 <img src="Example/button1.gif" width="100"/>
-
-![](Example/button1.gif)
-![](Example/button2.gif)
-![](Example/button3.gif)
+<img src="Example/button2.gif" width="100"/>
+<img src="Example/button3.gif" width="100"/>
 
 ## Installation
 
