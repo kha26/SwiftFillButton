@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftFillButton_Example' do
+  pod 'SwiftFillButton', :path => '../'
+
+  target 'SwiftFillButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
