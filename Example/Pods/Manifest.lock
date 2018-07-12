@@ -1,5 +1,5 @@
 PODS:
-  - SwiftFillButton (0.1.0)
+  - SwiftFillButton (1.0.0)
 
 DEPENDENCIES:
   - SwiftFillButton (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftFillButton: 388b41732859ba596275e8c74cbd244a8e16b271
+  SwiftFillButton: f35629e45111c1d258e74a2a624a5be74ca76476
 
 PODFILE CHECKSUM: 744a282ea681d3096406e561f8873c228b29658d
 

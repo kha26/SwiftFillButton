@@ -28,7 +28,8 @@ SwiftFillButton is a subclass of UIButton. When the user clicks on the button, t
   s.source           = { :git => 'https://github.com/kha26/SwiftFillButton.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
+  s.swift_version = '3.2'
 
   s.source_files = 'SwiftFillButton/Classes/**/*'
   

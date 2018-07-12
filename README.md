@@ -5,11 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/SwiftFillButton.svg?style=flat)](https://cocoapods.org/pods/SwiftFillButton)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftFillButton.svg?style=flat)](https://cocoapods.org/pods/SwiftFillButton)
 
-## Example
+Simple button in Swift that fills up on a click.
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
+![](Example/button1.gif)
 
 ## Installation
 
@@ -19,6 +17,18 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'SwiftFillButton'
 ```
+
+## Usage
+
+
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+
 
 ## Author
 
