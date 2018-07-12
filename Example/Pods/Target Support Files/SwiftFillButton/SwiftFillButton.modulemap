@@ -1,0 +1,6 @@
+framework module SwiftFillButton {
+  umbrella header "SwiftFillButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftFillButton'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of SwiftFillButton.'
+  s.version          = '1.0.0'
+  s.summary          = 'SwiftFillButton is a subclass of UIButton that fills up when clicked.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+SwiftFillButton is a subclass of UIButton. When the user clicks on the button, the background changes to the desired color. The button also zooms in and/or makes the text bold on a click event.
                        DESC
 
   s.homepage         = 'https://github.com/kha26/SwiftFillButton'

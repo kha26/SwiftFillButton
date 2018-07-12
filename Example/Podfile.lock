@@ -1,0 +1,16 @@
+PODS:
+  - SwiftFillButton (0.1.0)
+
+DEPENDENCIES:
+  - SwiftFillButton (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftFillButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftFillButton: 388b41732859ba596275e8c74cbd244a8e16b271
+
+PODFILE CHECKSUM: 744a282ea681d3096406e561f8873c228b29658d
+
+COCOAPODS: 1.5.3
