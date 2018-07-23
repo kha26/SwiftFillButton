@@ -21,7 +21,12 @@ pod 'SwiftFillButton'
 ```
 
 ## Usage
+First import the module with:
+```swift
+import SwiftFillButton
+```
 
+Then you can configure a button programatically like this:
 ```swift
 let button3 = FillButton()
 

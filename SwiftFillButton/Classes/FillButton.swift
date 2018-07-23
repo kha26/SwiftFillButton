@@ -20,7 +20,7 @@ import UIKit
     @IBInspectable public var zoomScale: CGFloat = 0.9
     
     // MARK: - Initializers
-    override init(frame: CGRect) {
+    override public init(frame: CGRect) {
         super.init(frame: frame)
         self.setup()
     }
